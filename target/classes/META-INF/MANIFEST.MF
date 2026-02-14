@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: mantr
+Build-Jdk: 21.0.9
+Main-Class: cse.acetcse.FirstMavenDemo.App
+Created-By: Maven Integration for Eclipse
+
