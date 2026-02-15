@@ -48,7 +48,7 @@
     <property name="localRepository" value="C:\Users\mantr\.m2\repository"/>
     <property name="java.vendor.url.bug" value="https://github.com/adoptium/adoptium-support/issues"/>
     <property name="java.io.tmpdir" value="C:\Users\mantr\AppData\Local\Temp\"/>
-    <property name="sonar.token" value="sqp_08674aa55a8afc80d043791847762fb10e279ca5"/>
+    <property name="sonar.token" value=""/>
     <property name="java.version" value="21.0.9"/>
     <property name="user.dir" value="D:\eclipse\FirstMavenDemo"/>
     <property name="os.arch" value="amd64"/>
